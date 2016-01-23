@@ -1,5 +1,8 @@
-# manager-tools-scraper
-Scraper script for the Manager Tools website.
+# manager-tools-dl
+
+manager-tools-dl allows you to download the podcasts available on [manager-tools.com](https://www.manager-tools.com/).
+
+manager-tools-dl is inspired by [youtube-dl](https://github.com/rg3/youtube-dl/).
 
 ## Requirements
 
@@ -19,7 +22,7 @@ This package requires the following modules:
 Packages marked as external are not preinstalled in most operating systems and should be installed.
 
 ## Usage
-```script.py [-h] [-v] [-r | -nd] [-t {manager,career,all}]
+```manager-tools-dl.py [-h] [-v] [-r | -nd] [-t {manager,career,all}]
                  [-o OUTPUT_DIRECTORY]```
 
 ### Arguments
