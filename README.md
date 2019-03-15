@@ -22,8 +22,7 @@ This package requires the following modules:
 Packages marked as external are not preinstalled in most operating systems and should be installed.
 
 ## Usage
-```manager-tools-dl.py [-h] [-v] [-r | -nd] [-t {manager,career,all}]
-                 [-o OUTPUT_DIRECTORY]```
+```manager-tools-dl.py [-h] [-v] [-r | -nd] [-t {manager,career,all}] [-o OUTPUT_DIRECTORY]```
 
 ### Arguments
 
